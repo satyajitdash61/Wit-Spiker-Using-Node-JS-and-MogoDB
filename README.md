@@ -15,5 +15,4 @@ Html, CSS, Javascript, Jquery, Bootstrap
 # Author
 Satyajit Dash
 
-# PreView
-https://suspicious-elion-a2cfb1.netlify.com/home.html
+
