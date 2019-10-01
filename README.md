@@ -6,7 +6,7 @@ At the and the user willbe awarded with mark that the user secured.
 
 # Requirements 
 
-Chrome Web Browser
+Chrome Web Browser and node server should be started by writing the command node mongoconnection.js in your terminal.
 
 # Technlogies Used
 
